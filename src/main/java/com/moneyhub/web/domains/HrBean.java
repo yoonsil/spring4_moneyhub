@@ -1,7 +1,6 @@
 package com.moneyhub.web.domains;
 
 import java.io.Serializable;
-
 import lombok.Data;
 
 @Data
