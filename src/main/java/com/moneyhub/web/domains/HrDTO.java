@@ -4,7 +4,7 @@ import java.io.Serializable;
 import lombok.Data;
 
 @Data
-public class HrBean implements Serializable{
+public class HrDTO implements Serializable{
 	private static final long serialVersionUID = 1L;
 	private String empno,
 	ename,
